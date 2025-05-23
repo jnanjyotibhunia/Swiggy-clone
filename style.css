@@ -1,0 +1,185 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap');
+@import "tailwindcss";
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: #f8f9fa;
+    margin: 0;
+    padding: 0;
+}
+
+/*
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 4px 20px;
+    background-color: #ffffff;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+.logo{
+    height: 80px;
+    width: 100px;
+}
+
+
+.nav-items ul{
+    display: flex;
+    list-style-type: none;
+    gap: 25px;
+    margin: 0;
+    padding: 0;    
+}
+.nav-items ul li{
+    font-size: 18px;
+    font-weight: 500;
+    padding: 10px 15px;
+    border-radius: 8px;   
+}
+.nav-items ul button{
+    background: linear-gradient(135deg, #ff4d4d, #ff9966);
+    color: white; 
+    font-size: 16px;
+    font-weight: bold;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 8px; 
+    cursor: pointer;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    transition: all 0.3s ease;
+}
+.login-btn:hover {
+    transform: translateY(-2px); 
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
+    
+}
+.nav-items ul li:hover {
+   
+    
+    cursor: pointer;
+}
+
+.filter{
+    display: flex;
+}
+
+.search-btn{
+    margin: 10px;
+    margin-left: 20px;
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    background: white;
+    padding: 7px;
+    border-radius: 0.5rem;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+    
+}
+
+.search-box {
+    flex: 1;
+    padding: 8px 12px;
+    border: none;
+    font-size: 16px;
+    outline: none;
+    width: 130px;
+}
+
+.search-btn button {
+    background-color: rgb(42, 40, 40);
+    color: white;
+    font-size: 14px;
+    font-weight: bold;
+    padding: 8px 16px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    transition: all 0.3s ease;
+}
+.filter-btn{
+    margin: 20px;
+    cursor: pointer;
+    background-color: rgb(213, 85, 81);
+    color: white;
+    border: none;
+    height: 35px;
+    padding: 0 8px;
+    font-size: 14px;
+    font-weight: bold;
+    border-radius: 0.5rem;
+    box-shadow: 0 3px 6px rgba(0, 0, 0, 0.15);
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.filter-btn:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
+}
+
+.res-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+    padding: 20px;
+}
+
+.res-card{
+    width: 280px;
+    border-radius: 12px;
+    background-color: white;
+    overflow: hidden;
+    white-space: normal; 
+    text-overflow: ellipsis;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+.res-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.15);
+    cursor: pointer;
+}
+.res-logo {
+    width: 100%;
+    height: 180px;
+    object-fit: cover;
+}
+.res-card .item {
+    padding: 0 8px;
+    word-wrap: break-word; 
+    
+}
+.res-card h4 {
+    font-size: 18px;
+    font-weight: 600;
+    margin-bottom: 5px;
+}
+.res-card .p {
+    font-size: 14px;
+    color: #777;
+    margin-bottom: 8px;
+}
+
+.res-card .rating {
+    font-size: 16px;
+    font-weight: bold;
+    color: #ff4d4d;
+}
+
+.about h1{
+  margin: 10px;
+  padding-left: 10px;
+  text-align: center;
+}
+
+.user-card{
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid black;
+}
+
+.error-msg{
+    margin:10px;
+    padding: 10px;
+} */
